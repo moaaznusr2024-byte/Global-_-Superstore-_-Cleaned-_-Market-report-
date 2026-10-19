@@ -30,34 +30,47 @@ total orders 25035. Consequently, total profit will decrease to an
 estimated value of $920,646.16.
 
 ## Dashboard Preview: 
+[Overview](images/page1-page8.png)
+[Sales Market](images/page2.png)
+[Profit Market report](images/page2.png)
+[Shipping](images/page2.png)
+[Loss rate per shipping Status](images/page1.png)
+[Loss rate per Sub-Category](images/page1.png)
+[Profit after shipping costs per market](images/page1.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Files
+- [Full report (PDF)](report.pdf)
+-[Power BI file (.pbix)](Global _ Superstore _ Cleaned _ Market report 2)
+## Notes
+- Opening the .pbix file requires Power BI Desktop (Windows).
 - Data source: "[Global Superstore Sales Dataset]" by [Bio] on Kaggle,
   licensed under [CC BY-SA 4.0]. Link: [www.kaggle.com/datasets/abbas829/global-superstore-sales-dataset/data]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
